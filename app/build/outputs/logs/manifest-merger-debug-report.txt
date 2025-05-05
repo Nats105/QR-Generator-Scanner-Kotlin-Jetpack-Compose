@@ -1,0 +1,589 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\Natswalker\.gradle\caches\transforms-3\b8114b83e036961f96053578014a2e43\transformed\room-runtime-2.6.1\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\Natswalker\.gradle\caches\transforms-3\77587d1539688956181c67ed47c3cb87\transformed\room-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [io.github.raamcosta.compose-destinations:core:2.1.0] C:\Users\Natswalker\.gradle\caches\transforms-3\045683849e3d5fa853aca401fbd3a8ab\transformed\core-2.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] C:\Users\Natswalker\.gradle\caches\transforms-3\9e8b610867495db175f2ea0c0fa4cebc\transformed\hilt-navigation-compose-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\Natswalker\.gradle\caches\transforms-3\69c3b3e5bd789a33ad8d67af768cb0f6\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.dagger:hilt-android:2.51.1] C:\Users\Natswalker\.gradle\caches\transforms-3\35c6ef716e26162bd922bbb6159a1a45\transformed\hilt-android-2.51.1\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.accompanist:accompanist-permissions:0.30.1] C:\Users\Natswalker\.gradle\caches\transforms-3\74782f2018f4eadab881452b93bda48b\transformed\accompanist-permissions-0.30.1\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.navigation:navigation-common:2.8.8] C:\Users\Natswalker\.gradle\caches\transforms-3\4e85700405f0a40d616e986f9edfdf70\transformed\navigation-common-2.8.8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.8] C:\Users\Natswalker\.gradle\caches\transforms-3\c462d6828b4838fecdd37b97a2aa186b\transformed\navigation-common-ktx-2.8.8\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.8] C:\Users\Natswalker\.gradle\caches\transforms-3\699ca0a59e2adb716acc0364c1814bac\transformed\navigation-runtime-2.8.8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.8] C:\Users\Natswalker\.gradle\caches\transforms-3\d5b255445bd4a60e66b510d4e3ba4b35\transformed\navigation-runtime-ktx-2.8.8\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.8.8] C:\Users\Natswalker\.gradle\caches\transforms-3\7ce88a6b3d579f7e7a80d52479f86f8e\transformed\navigation-compose-2.8.8\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.raipankaj:Stories:1.0.2] C:\Users\Natswalker\.gradle\caches\transforms-3\46afebbebd9b8dd13b0dba873304d8f4\transformed\Stories-1.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Natswalker\.gradle\caches\transforms-3\44f735d0c270f032bf5624e5fe710d7a\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\ea69cdd5d3b715dfcc22d79554b70f2b\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Natswalker\.gradle\caches\transforms-3\5c9e601342a41d2353799cc43a707b90\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [io.coil-kt:coil-compose:2.5.0] C:\Users\Natswalker\.gradle\caches\transforms-3\7d807056345d49c46c4273160a29ff5f\transformed\coil-compose-2.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-compose-base:2.5.0] C:\Users\Natswalker\.gradle\caches\transforms-3\91cbd406df28df5ea701f690c3e067b8\transformed\coil-compose-base-2.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil:2.5.0] C:\Users\Natswalker\.gradle\caches\transforms-3\a0d9001c4366534232a4b19675fcc00f\transformed\coil-2.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-base:2.5.0] C:\Users\Natswalker\.gradle\caches\transforms-3\150c46644cf5b8b330f72b1949f29f9b\transformed\coil-base-2.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Natswalker\.gradle\caches\transforms-3\c1c8ee3536b9a6e7065dbf0be1565529\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Natswalker\.gradle\caches\transforms-3\80f43ab9d227891c776750b9e75ae968\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\Natswalker\.gradle\caches\transforms-3\9d8935e9a01b80578ebd0e82c579ccb9\transformed\fragment-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.skydoves:cloudy:0.1.2] C:\Users\Natswalker\.gradle\caches\transforms-3\3e638af55507e9ec0cdb827c91638e81\transformed\cloudy-0.1.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\Natswalker\.gradle\caches\transforms-3\1a0600ad67df86466667c41bfbfd173c\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.material3:material3-android:1.2.1] C:\Users\Natswalker\.gradle\caches\transforms-3\25be5f3cb3aea20faf876bc2021b6b43\transformed\material3-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-ripple-android:1.6.8] C:\Users\Natswalker\.gradle\caches\transforms-3\4f881b6d52b3e6785f7cfa2e4e29747e\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.8] C:\Users\Natswalker\.gradle\caches\transforms-3\7dd6ff8ba966b745a9e91fe3de3dd2a1\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.accompanist:accompanist-pager:0.17.0] C:\Users\Natswalker\.gradle\caches\transforms-3\cb0a4b6f5d760fbc14cedffcc2bc6fbc\transformed\accompanist-pager-0.17.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\43eaba7f4a52e74edce69bf2c8689e32\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\52d22814437e362c626db819e21053d5\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\5c95a8fba11a00dd25fef7c0584070f3\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\d866e9787c24e24cc1c906bacad433c3\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\53cddb59a4f3dab3efff4f95fd4bc3c3\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\ee5916d07ad785c8bd4298722778dd5f\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\5fc4d67559d4bda75ef845b83248ced6\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\3ff94b5acc75d8aa64d72176854670fa\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\4a72f63a9ebc271b52938b1e2ad69622\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\264bb1e4d4efe12adcd6aac2d62a8c2b\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\b462f303c5ff66cdc73b7315e3a1227a\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\67320ce23c2c9c75990dc209a568fd9e\transformed\ui-test-manifest-1.7.2\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\4073e672988d6e437b102b41f79df56b\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.material:material-android:1.6.8] C:\Users\Natswalker\.gradle\caches\transforms-3\6e073c6b3be2823879162d2516bdd6a4\transformed\material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\5db13894278208e7d511334d6959eec5\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\fd0de32c831cbf20fa4d3146353794e4\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\27d22bcb7f78689d0be3830827fa5b2b\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\23a1ab7e0d7d9ef16c5ad912721f4e06\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\4aaa862d5868ed623ddf3ecac93decb2\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Natswalker\.gradle\caches\transforms-3\7f77c9974211cf9f729c91969ffec57d\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Natswalker\.gradle\caches\transforms-3\8c511169858d39c1bc98d4d4d5e8b8de\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Natswalker\.gradle\caches\transforms-3\892e76f402278c6f7d239c0de217bde4\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Natswalker\.gradle\caches\transforms-3\0e328789ab5609c3c2a01bf240b96d57\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\8b8ae822d6bd254844be6c82a4bcec3b\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Natswalker\.gradle\caches\transforms-3\4490964fc7b19a7635de221dc14480e3\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\a11c61bbd82c8be70ad28f6f977dbba9\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\1e82b482fea6ce6de33b4403baeb7760\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\1426431503a9357ac4bafa91ce6cc95a\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\Natswalker\.gradle\caches\transforms-3\04755c865bfbe026f7b6fd4e2c2ba9b7\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\b561c620918f5789a27a96de28d3afd2\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Natswalker\.gradle\caches\transforms-3\dfe31be975bed81a4e1b44c67ba94cf6\transformed\core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\Natswalker\.gradle\caches\transforms-3\006aa02bcac175aa3f8354bede857d6a\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Natswalker\.gradle\caches\transforms-3\fb0e7a89fd5fd99a4f7a480b5cb74c7f\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Natswalker\.gradle\caches\transforms-3\3e63083042886c905d9d4d3dbd971c72\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\0b917995213035ab27f4636158146a20\transformed\lifecycle-viewmodel-2.8.3\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\1a04f44e9127be072becfae96d62b9a3\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\e29b5a4fc980efd68535e9546af52b7f\transformed\lifecycle-livedata-core-ktx-2.8.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\03c03630302a7af078495607f1e903b1\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\a71c3545921af77aa4439151bbca1737\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\4437b655f3cabfebacc58836fdd2e5e7\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\c82fa7bbdd31ca74e753897dbd250c5a\transformed\lifecycle-viewmodel-savedstate-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\169f0d4ca0612290463307eefc67b8d4\transformed\lifecycle-viewmodel-ktx-2.8.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\c9a638f48b7eb2621d06bc9c9d9b758c\transformed\lifecycle-livedata-core-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\27c985ab056b90a927fe15a32d6dd0b0\transformed\lifecycle-livedata-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\31fcc87eb8bf73829219a02b7c4d618d\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\c24114e4ad4aefa16bee47ae0f515e46\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\88b6b0ee26fa626ae8f9fb1bf148cda3\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\Natswalker\.gradle\caches\transforms-3\16b5d5a5f19fcf7a3f79f234c6d5529e\transformed\activity-ktx-1.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\Natswalker\.gradle\caches\transforms-3\1afe59b132e79f197ae487b71ef8d8a3\transformed\activity-1.8.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.8.2] C:\Users\Natswalker\.gradle\caches\transforms-3\09ebfd28bfe7d3795290ed299652cb1e\transformed\activity-compose-1.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\cc3c3363ba96e3a3c8502d16bda72665\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\507b1995dc05624fea3ee6f5a43f8ea8\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\Natswalker\.gradle\caches\transforms-3\14bd8f63a197f99204d106d746cf6ad7\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\Natswalker\.gradle\caches\transforms-3\83ef17c5f3e6b6e8173674af844b1252\transformed\sqlite-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.github.aakira:napier-android-debug:1.4.1] C:\Users\Natswalker\.gradle\caches\transforms-3\d2243b4b28d2ba41264a3577b70dfab3\transformed\napier-debug\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Natswalker\.gradle\caches\transforms-3\d7b2ba4bbaafdd38e47b2f7b48a87ea3\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Natswalker\.gradle\caches\transforms-3\067f11e05858772c69f2bb991b4b6a48\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Natswalker\.gradle\caches\transforms-3\bf61c6a8d8a156c0a372f4f7436a0772\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\e46a8b2ed27425788730bf85291b8804\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\88a074a0045955258110364a019da974\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Natswalker\.gradle\caches\transforms-3\93f95ecbb14c0e2e1d0326b9c4e74b45\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Natswalker\.gradle\caches\transforms-3\5c5e915c20f6b7e0af560bd55ff29b5c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\3ca4863d03a7aabe041b18a49443c74c\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Natswalker\.gradle\caches\transforms-3\ffbe7d0749118d6ccb729cc9a552804c\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\86d717910c6331f620b17cc5215b19e8\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\1a5d5c3151b01957b7f5f8723c7f7844\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\4c1d3fb37bf96e7e558f28f44e2ab2ae\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\5f269ff43959bb8fe5a143e4407387c9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:17:1-56:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.51.1] C:\Users\Natswalker\.gradle\caches\transforms-3\7a3b78a4520739db4f99dcba88cf8f25\transformed\dagger-lint-aar-2.51.1\AndroidManifest.xml:16:1-19:12
+	package
+		INJECTED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:6:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:22:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:6:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:7:5-85
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:25:5-27:36
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:7:58-82
+	android:name
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:7:19-57
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:8:5-9:38
+	android:maxSdkVersion
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:9:9-35
+	android:name
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:10:5-11:38
+	android:maxSdkVersion
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:11:9-35
+	android:name
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:10:22-77
+application
+ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:13:5-40:19
+INJECTED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:13:5-40:19
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\Natswalker\.gradle\caches\transforms-3\b8114b83e036961f96053578014a2e43\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\Natswalker\.gradle\caches\transforms-3\b8114b83e036961f96053578014a2e43\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Natswalker\.gradle\caches\transforms-3\44f735d0c270f032bf5624e5fe710d7a\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Natswalker\.gradle\caches\transforms-3\44f735d0c270f032bf5624e5fe710d7a\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Natswalker\.gradle\caches\transforms-3\5c9e601342a41d2353799cc43a707b90\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Natswalker\.gradle\caches\transforms-3\5c9e601342a41d2353799cc43a707b90\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\67320ce23c2c9c75990dc209a568fd9e\transformed\ui-test-manifest-1.7.2\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\67320ce23c2c9c75990dc209a568fd9e\transformed\ui-test-manifest-1.7.2\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\4073e672988d6e437b102b41f79df56b\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\4073e672988d6e437b102b41f79df56b\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\4aaa862d5868ed623ddf3ecac93decb2\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\4aaa862d5868ed623ddf3ecac93decb2\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\Natswalker\.gradle\caches\transforms-3\006aa02bcac175aa3f8354bede857d6a\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\Natswalker\.gradle\caches\transforms-3\006aa02bcac175aa3f8354bede857d6a\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\4437b655f3cabfebacc58836fdd2e5e7\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\4437b655f3cabfebacc58836fdd2e5e7\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Natswalker\.gradle\caches\transforms-3\067f11e05858772c69f2bb991b4b6a48\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Natswalker\.gradle\caches\transforms-3\067f11e05858772c69f2bb991b4b6a48\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Natswalker\.gradle\caches\transforms-3\93f95ecbb14c0e2e1d0326b9c4e74b45\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Natswalker\.gradle\caches\transforms-3\93f95ecbb14c0e2e1d0326b9c4e74b45\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Natswalker\.gradle\caches\transforms-3\5c5e915c20f6b7e0af560bd55ff29b5c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Natswalker\.gradle\caches\transforms-3\5c5e915c20f6b7e0af560bd55ff29b5c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:46:5-54:19
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:46:5-54:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Natswalker\.gradle\caches\transforms-3\006aa02bcac175aa3f8354bede857d6a\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:19:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:16:9-54
+	android:roundIcon
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:20:9-54
+	tools:targetApi
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:23:9-29
+	android:icon
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:22:9-44
+	android:dataExtractionRules
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:15:9-65
+	android:name
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:17:9-62
+activity#dev.kiko.qrcodegenerator.MainActivity
+ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:24:9-34:20
+	android:label
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:27:13-45
+	android:exported
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:26:13-36
+	android:theme
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:28:13-48
+	android:name
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:25:13-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:36:9-39:49
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:47:9-53:63
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:47:9-53:63
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:49:13-45
+	android:screenOrientation
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:38:13-51
+		REJECTED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:50:13-56
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:51:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:53:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:52:13-54
+	tools:replace
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:39:13-46
+	android:name
+		ADDED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml:37:13-74
+uses-sdk
+INJECTED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\Natswalker\.gradle\caches\transforms-3\b8114b83e036961f96053578014a2e43\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\Natswalker\.gradle\caches\transforms-3\b8114b83e036961f96053578014a2e43\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\Natswalker\.gradle\caches\transforms-3\77587d1539688956181c67ed47c3cb87\transformed\room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\Natswalker\.gradle\caches\transforms-3\77587d1539688956181c67ed47c3cb87\transformed\room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [io.github.raamcosta.compose-destinations:core:2.1.0] C:\Users\Natswalker\.gradle\caches\transforms-3\045683849e3d5fa853aca401fbd3a8ab\transformed\core-2.1.0\AndroidManifest.xml:5:5-44
+MERGED from [io.github.raamcosta.compose-destinations:core:2.1.0] C:\Users\Natswalker\.gradle\caches\transforms-3\045683849e3d5fa853aca401fbd3a8ab\transformed\core-2.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] C:\Users\Natswalker\.gradle\caches\transforms-3\9e8b610867495db175f2ea0c0fa4cebc\transformed\hilt-navigation-compose-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] C:\Users\Natswalker\.gradle\caches\transforms-3\9e8b610867495db175f2ea0c0fa4cebc\transformed\hilt-navigation-compose-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\Natswalker\.gradle\caches\transforms-3\69c3b3e5bd789a33ad8d67af768cb0f6\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\Natswalker\.gradle\caches\transforms-3\69c3b3e5bd789a33ad8d67af768cb0f6\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:hilt-android:2.51.1] C:\Users\Natswalker\.gradle\caches\transforms-3\35c6ef716e26162bd922bbb6159a1a45\transformed\hilt-android-2.51.1\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.51.1] C:\Users\Natswalker\.gradle\caches\transforms-3\35c6ef716e26162bd922bbb6159a1a45\transformed\hilt-android-2.51.1\AndroidManifest.xml:18:3-42
+MERGED from [com.google.accompanist:accompanist-permissions:0.30.1] C:\Users\Natswalker\.gradle\caches\transforms-3\74782f2018f4eadab881452b93bda48b\transformed\accompanist-permissions-0.30.1\AndroidManifest.xml:21:5-23:42
+MERGED from [com.google.accompanist:accompanist-permissions:0.30.1] C:\Users\Natswalker\.gradle\caches\transforms-3\74782f2018f4eadab881452b93bda48b\transformed\accompanist-permissions-0.30.1\AndroidManifest.xml:21:5-23:42
+MERGED from [androidx.navigation:navigation-common:2.8.8] C:\Users\Natswalker\.gradle\caches\transforms-3\4e85700405f0a40d616e986f9edfdf70\transformed\navigation-common-2.8.8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.8] C:\Users\Natswalker\.gradle\caches\transforms-3\4e85700405f0a40d616e986f9edfdf70\transformed\navigation-common-2.8.8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.8] C:\Users\Natswalker\.gradle\caches\transforms-3\c462d6828b4838fecdd37b97a2aa186b\transformed\navigation-common-ktx-2.8.8\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.8] C:\Users\Natswalker\.gradle\caches\transforms-3\c462d6828b4838fecdd37b97a2aa186b\transformed\navigation-common-ktx-2.8.8\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.8] C:\Users\Natswalker\.gradle\caches\transforms-3\699ca0a59e2adb716acc0364c1814bac\transformed\navigation-runtime-2.8.8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.8] C:\Users\Natswalker\.gradle\caches\transforms-3\699ca0a59e2adb716acc0364c1814bac\transformed\navigation-runtime-2.8.8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.8] C:\Users\Natswalker\.gradle\caches\transforms-3\d5b255445bd4a60e66b510d4e3ba4b35\transformed\navigation-runtime-ktx-2.8.8\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.8] C:\Users\Natswalker\.gradle\caches\transforms-3\d5b255445bd4a60e66b510d4e3ba4b35\transformed\navigation-runtime-ktx-2.8.8\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.8] C:\Users\Natswalker\.gradle\caches\transforms-3\7ce88a6b3d579f7e7a80d52479f86f8e\transformed\navigation-compose-2.8.8\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.8] C:\Users\Natswalker\.gradle\caches\transforms-3\7ce88a6b3d579f7e7a80d52479f86f8e\transformed\navigation-compose-2.8.8\AndroidManifest.xml:5:5-44
+MERGED from [com.github.raipankaj:Stories:1.0.2] C:\Users\Natswalker\.gradle\caches\transforms-3\46afebbebd9b8dd13b0dba873304d8f4\transformed\Stories-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.raipankaj:Stories:1.0.2] C:\Users\Natswalker\.gradle\caches\transforms-3\46afebbebd9b8dd13b0dba873304d8f4\transformed\Stories-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Natswalker\.gradle\caches\transforms-3\44f735d0c270f032bf5624e5fe710d7a\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Natswalker\.gradle\caches\transforms-3\44f735d0c270f032bf5624e5fe710d7a\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\ea69cdd5d3b715dfcc22d79554b70f2b\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\ea69cdd5d3b715dfcc22d79554b70f2b\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Natswalker\.gradle\caches\transforms-3\5c9e601342a41d2353799cc43a707b90\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Natswalker\.gradle\caches\transforms-3\5c9e601342a41d2353799cc43a707b90\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose:2.5.0] C:\Users\Natswalker\.gradle\caches\transforms-3\7d807056345d49c46c4273160a29ff5f\transformed\coil-compose-2.5.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.5.0] C:\Users\Natswalker\.gradle\caches\transforms-3\7d807056345d49c46c4273160a29ff5f\transformed\coil-compose-2.5.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.5.0] C:\Users\Natswalker\.gradle\caches\transforms-3\91cbd406df28df5ea701f690c3e067b8\transformed\coil-compose-base-2.5.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.5.0] C:\Users\Natswalker\.gradle\caches\transforms-3\91cbd406df28df5ea701f690c3e067b8\transformed\coil-compose-base-2.5.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.5.0] C:\Users\Natswalker\.gradle\caches\transforms-3\a0d9001c4366534232a4b19675fcc00f\transformed\coil-2.5.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.5.0] C:\Users\Natswalker\.gradle\caches\transforms-3\a0d9001c4366534232a4b19675fcc00f\transformed\coil-2.5.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.5.0] C:\Users\Natswalker\.gradle\caches\transforms-3\150c46644cf5b8b330f72b1949f29f9b\transformed\coil-base-2.5.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.5.0] C:\Users\Natswalker\.gradle\caches\transforms-3\150c46644cf5b8b330f72b1949f29f9b\transformed\coil-base-2.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Natswalker\.gradle\caches\transforms-3\c1c8ee3536b9a6e7065dbf0be1565529\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Natswalker\.gradle\caches\transforms-3\c1c8ee3536b9a6e7065dbf0be1565529\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Natswalker\.gradle\caches\transforms-3\80f43ab9d227891c776750b9e75ae968\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Natswalker\.gradle\caches\transforms-3\80f43ab9d227891c776750b9e75ae968\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\Natswalker\.gradle\caches\transforms-3\9d8935e9a01b80578ebd0e82c579ccb9\transformed\fragment-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\Natswalker\.gradle\caches\transforms-3\9d8935e9a01b80578ebd0e82c579ccb9\transformed\fragment-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.skydoves:cloudy:0.1.2] C:\Users\Natswalker\.gradle\caches\transforms-3\3e638af55507e9ec0cdb827c91638e81\transformed\cloudy-0.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.github.skydoves:cloudy:0.1.2] C:\Users\Natswalker\.gradle\caches\transforms-3\3e638af55507e9ec0cdb827c91638e81\transformed\cloudy-0.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\Natswalker\.gradle\caches\transforms-3\1a0600ad67df86466667c41bfbfd173c\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\Natswalker\.gradle\caches\transforms-3\1a0600ad67df86466667c41bfbfd173c\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.1] C:\Users\Natswalker\.gradle\caches\transforms-3\25be5f3cb3aea20faf876bc2021b6b43\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.1] C:\Users\Natswalker\.gradle\caches\transforms-3\25be5f3cb3aea20faf876bc2021b6b43\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.8] C:\Users\Natswalker\.gradle\caches\transforms-3\4f881b6d52b3e6785f7cfa2e4e29747e\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.8] C:\Users\Natswalker\.gradle\caches\transforms-3\4f881b6d52b3e6785f7cfa2e4e29747e\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.8] C:\Users\Natswalker\.gradle\caches\transforms-3\7dd6ff8ba966b745a9e91fe3de3dd2a1\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.8] C:\Users\Natswalker\.gradle\caches\transforms-3\7dd6ff8ba966b745a9e91fe3de3dd2a1\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [com.google.accompanist:accompanist-pager:0.17.0] C:\Users\Natswalker\.gradle\caches\transforms-3\cb0a4b6f5d760fbc14cedffcc2bc6fbc\transformed\accompanist-pager-0.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-pager:0.17.0] C:\Users\Natswalker\.gradle\caches\transforms-3\cb0a4b6f5d760fbc14cedffcc2bc6fbc\transformed\accompanist-pager-0.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\43eaba7f4a52e74edce69bf2c8689e32\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\43eaba7f4a52e74edce69bf2c8689e32\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\52d22814437e362c626db819e21053d5\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\52d22814437e362c626db819e21053d5\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\5c95a8fba11a00dd25fef7c0584070f3\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\5c95a8fba11a00dd25fef7c0584070f3\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\d866e9787c24e24cc1c906bacad433c3\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\d866e9787c24e24cc1c906bacad433c3\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\53cddb59a4f3dab3efff4f95fd4bc3c3\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\53cddb59a4f3dab3efff4f95fd4bc3c3\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\ee5916d07ad785c8bd4298722778dd5f\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\ee5916d07ad785c8bd4298722778dd5f\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\5fc4d67559d4bda75ef845b83248ced6\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\5fc4d67559d4bda75ef845b83248ced6\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\3ff94b5acc75d8aa64d72176854670fa\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\3ff94b5acc75d8aa64d72176854670fa\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\4a72f63a9ebc271b52938b1e2ad69622\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\4a72f63a9ebc271b52938b1e2ad69622\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\264bb1e4d4efe12adcd6aac2d62a8c2b\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\264bb1e4d4efe12adcd6aac2d62a8c2b\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\b462f303c5ff66cdc73b7315e3a1227a\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\b462f303c5ff66cdc73b7315e3a1227a\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\67320ce23c2c9c75990dc209a568fd9e\transformed\ui-test-manifest-1.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\67320ce23c2c9c75990dc209a568fd9e\transformed\ui-test-manifest-1.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\4073e672988d6e437b102b41f79df56b\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\4073e672988d6e437b102b41f79df56b\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.6.8] C:\Users\Natswalker\.gradle\caches\transforms-3\6e073c6b3be2823879162d2516bdd6a4\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.8] C:\Users\Natswalker\.gradle\caches\transforms-3\6e073c6b3be2823879162d2516bdd6a4\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\5db13894278208e7d511334d6959eec5\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\5db13894278208e7d511334d6959eec5\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\fd0de32c831cbf20fa4d3146353794e4\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\fd0de32c831cbf20fa4d3146353794e4\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\27d22bcb7f78689d0be3830827fa5b2b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\27d22bcb7f78689d0be3830827fa5b2b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\23a1ab7e0d7d9ef16c5ad912721f4e06\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\23a1ab7e0d7d9ef16c5ad912721f4e06\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\4aaa862d5868ed623ddf3ecac93decb2\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\4aaa862d5868ed623ddf3ecac93decb2\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Natswalker\.gradle\caches\transforms-3\7f77c9974211cf9f729c91969ffec57d\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Natswalker\.gradle\caches\transforms-3\7f77c9974211cf9f729c91969ffec57d\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Natswalker\.gradle\caches\transforms-3\8c511169858d39c1bc98d4d4d5e8b8de\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Natswalker\.gradle\caches\transforms-3\8c511169858d39c1bc98d4d4d5e8b8de\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Natswalker\.gradle\caches\transforms-3\892e76f402278c6f7d239c0de217bde4\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Natswalker\.gradle\caches\transforms-3\892e76f402278c6f7d239c0de217bde4\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Natswalker\.gradle\caches\transforms-3\0e328789ab5609c3c2a01bf240b96d57\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Natswalker\.gradle\caches\transforms-3\0e328789ab5609c3c2a01bf240b96d57\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\8b8ae822d6bd254844be6c82a4bcec3b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\8b8ae822d6bd254844be6c82a4bcec3b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Natswalker\.gradle\caches\transforms-3\4490964fc7b19a7635de221dc14480e3\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Natswalker\.gradle\caches\transforms-3\4490964fc7b19a7635de221dc14480e3\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\a11c61bbd82c8be70ad28f6f977dbba9\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\a11c61bbd82c8be70ad28f6f977dbba9\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\1e82b482fea6ce6de33b4403baeb7760\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\1e82b482fea6ce6de33b4403baeb7760\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\1426431503a9357ac4bafa91ce6cc95a\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\1426431503a9357ac4bafa91ce6cc95a\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\Natswalker\.gradle\caches\transforms-3\04755c865bfbe026f7b6fd4e2c2ba9b7\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\Natswalker\.gradle\caches\transforms-3\04755c865bfbe026f7b6fd4e2c2ba9b7\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\b561c620918f5789a27a96de28d3afd2\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\b561c620918f5789a27a96de28d3afd2\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Natswalker\.gradle\caches\transforms-3\dfe31be975bed81a4e1b44c67ba94cf6\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Natswalker\.gradle\caches\transforms-3\dfe31be975bed81a4e1b44c67ba94cf6\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\Natswalker\.gradle\caches\transforms-3\006aa02bcac175aa3f8354bede857d6a\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\Natswalker\.gradle\caches\transforms-3\006aa02bcac175aa3f8354bede857d6a\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Natswalker\.gradle\caches\transforms-3\fb0e7a89fd5fd99a4f7a480b5cb74c7f\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Natswalker\.gradle\caches\transforms-3\fb0e7a89fd5fd99a4f7a480b5cb74c7f\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Natswalker\.gradle\caches\transforms-3\3e63083042886c905d9d4d3dbd971c72\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Natswalker\.gradle\caches\transforms-3\3e63083042886c905d9d4d3dbd971c72\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\0b917995213035ab27f4636158146a20\transformed\lifecycle-viewmodel-2.8.3\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\0b917995213035ab27f4636158146a20\transformed\lifecycle-viewmodel-2.8.3\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\1a04f44e9127be072becfae96d62b9a3\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\1a04f44e9127be072becfae96d62b9a3\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\e29b5a4fc980efd68535e9546af52b7f\transformed\lifecycle-livedata-core-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\e29b5a4fc980efd68535e9546af52b7f\transformed\lifecycle-livedata-core-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\03c03630302a7af078495607f1e903b1\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\03c03630302a7af078495607f1e903b1\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\a71c3545921af77aa4439151bbca1737\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\a71c3545921af77aa4439151bbca1737\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\4437b655f3cabfebacc58836fdd2e5e7\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\4437b655f3cabfebacc58836fdd2e5e7\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\c82fa7bbdd31ca74e753897dbd250c5a\transformed\lifecycle-viewmodel-savedstate-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\c82fa7bbdd31ca74e753897dbd250c5a\transformed\lifecycle-viewmodel-savedstate-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\169f0d4ca0612290463307eefc67b8d4\transformed\lifecycle-viewmodel-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\169f0d4ca0612290463307eefc67b8d4\transformed\lifecycle-viewmodel-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\c9a638f48b7eb2621d06bc9c9d9b758c\transformed\lifecycle-livedata-core-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\c9a638f48b7eb2621d06bc9c9d9b758c\transformed\lifecycle-livedata-core-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\27c985ab056b90a927fe15a32d6dd0b0\transformed\lifecycle-livedata-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\27c985ab056b90a927fe15a32d6dd0b0\transformed\lifecycle-livedata-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\31fcc87eb8bf73829219a02b7c4d618d\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\31fcc87eb8bf73829219a02b7c4d618d\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\c24114e4ad4aefa16bee47ae0f515e46\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\c24114e4ad4aefa16bee47ae0f515e46\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\88b6b0ee26fa626ae8f9fb1bf148cda3\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\88b6b0ee26fa626ae8f9fb1bf148cda3\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\Natswalker\.gradle\caches\transforms-3\16b5d5a5f19fcf7a3f79f234c6d5529e\transformed\activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\Natswalker\.gradle\caches\transforms-3\16b5d5a5f19fcf7a3f79f234c6d5529e\transformed\activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\Natswalker\.gradle\caches\transforms-3\1afe59b132e79f197ae487b71ef8d8a3\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\Natswalker\.gradle\caches\transforms-3\1afe59b132e79f197ae487b71ef8d8a3\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] C:\Users\Natswalker\.gradle\caches\transforms-3\09ebfd28bfe7d3795290ed299652cb1e\transformed\activity-compose-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] C:\Users\Natswalker\.gradle\caches\transforms-3\09ebfd28bfe7d3795290ed299652cb1e\transformed\activity-compose-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\cc3c3363ba96e3a3c8502d16bda72665\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\cc3c3363ba96e3a3c8502d16bda72665\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\507b1995dc05624fea3ee6f5a43f8ea8\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\507b1995dc05624fea3ee6f5a43f8ea8\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\Natswalker\.gradle\caches\transforms-3\14bd8f63a197f99204d106d746cf6ad7\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\Natswalker\.gradle\caches\transforms-3\14bd8f63a197f99204d106d746cf6ad7\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\Natswalker\.gradle\caches\transforms-3\83ef17c5f3e6b6e8173674af844b1252\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\Natswalker\.gradle\caches\transforms-3\83ef17c5f3e6b6e8173674af844b1252\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [io.github.aakira:napier-android-debug:1.4.1] C:\Users\Natswalker\.gradle\caches\transforms-3\d2243b4b28d2ba41264a3577b70dfab3\transformed\napier-debug\AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.aakira:napier-android-debug:1.4.1] C:\Users\Natswalker\.gradle\caches\transforms-3\d2243b4b28d2ba41264a3577b70dfab3\transformed\napier-debug\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Natswalker\.gradle\caches\transforms-3\d7b2ba4bbaafdd38e47b2f7b48a87ea3\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Natswalker\.gradle\caches\transforms-3\d7b2ba4bbaafdd38e47b2f7b48a87ea3\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Natswalker\.gradle\caches\transforms-3\067f11e05858772c69f2bb991b4b6a48\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Natswalker\.gradle\caches\transforms-3\067f11e05858772c69f2bb991b4b6a48\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Natswalker\.gradle\caches\transforms-3\bf61c6a8d8a156c0a372f4f7436a0772\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Natswalker\.gradle\caches\transforms-3\bf61c6a8d8a156c0a372f4f7436a0772\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\e46a8b2ed27425788730bf85291b8804\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\e46a8b2ed27425788730bf85291b8804\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\88a074a0045955258110364a019da974\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\88a074a0045955258110364a019da974\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Natswalker\.gradle\caches\transforms-3\93f95ecbb14c0e2e1d0326b9c4e74b45\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Natswalker\.gradle\caches\transforms-3\93f95ecbb14c0e2e1d0326b9c4e74b45\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Natswalker\.gradle\caches\transforms-3\5c5e915c20f6b7e0af560bd55ff29b5c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Natswalker\.gradle\caches\transforms-3\5c5e915c20f6b7e0af560bd55ff29b5c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\3ca4863d03a7aabe041b18a49443c74c\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\3ca4863d03a7aabe041b18a49443c74c\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Natswalker\.gradle\caches\transforms-3\ffbe7d0749118d6ccb729cc9a552804c\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Natswalker\.gradle\caches\transforms-3\ffbe7d0749118d6ccb729cc9a552804c\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\86d717910c6331f620b17cc5215b19e8\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\86d717910c6331f620b17cc5215b19e8\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\1a5d5c3151b01957b7f5f8723c7f7844\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\1a5d5c3151b01957b7f5f8723c7f7844\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\4c1d3fb37bf96e7e558f28f44e2ab2ae\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\4c1d3fb37bf96e7e558f28f44e2ab2ae\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\5f269ff43959bb8fe5a143e4407387c9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Natswalker\.gradle\caches\transforms-3\5f269ff43959bb8fe5a143e4407387c9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.51.1] C:\Users\Natswalker\.gradle\caches\transforms-3\7a3b78a4520739db4f99dcba88cf8f25\transformed\dagger-lint-aar-2.51.1\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.51.1] C:\Users\Natswalker\.gradle\caches\transforms-3\7a3b78a4520739db4f99dcba88cf8f25\transformed\dagger-lint-aar-2.51.1\AndroidManifest.xml:18:3-42
+	android:targetSdkVersion
+		INJECTED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml
+	tools:ignore
+		ADDED from [com.google.accompanist:accompanist-permissions:0.30.1] C:\Users\Natswalker\.gradle\caches\transforms-3\74782f2018f4eadab881452b93bda48b\transformed\accompanist-permissions-0.30.1\AndroidManifest.xml:23:9-39
+	android:minSdkVersion
+		INJECTED from C:\Users\Natswalker\Desktop\QRCodeApp\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\Natswalker\.gradle\caches\transforms-3\b8114b83e036961f96053578014a2e43\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\Natswalker\.gradle\caches\transforms-3\b8114b83e036961f96053578014a2e43\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\Natswalker\.gradle\caches\transforms-3\b8114b83e036961f96053578014a2e43\transformed\room-runtime-2.6.1\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\Natswalker\.gradle\caches\transforms-3\b8114b83e036961f96053578014a2e43\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\Natswalker\.gradle\caches\transforms-3\b8114b83e036961f96053578014a2e43\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\67320ce23c2c9c75990dc209a568fd9e\transformed\ui-test-manifest-1.7.2\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\67320ce23c2c9c75990dc209a568fd9e\transformed\ui-test-manifest-1.7.2\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\67320ce23c2c9c75990dc209a568fd9e\transformed\ui-test-manifest-1.7.2\AndroidManifest.xml:24:13-63
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\4073e672988d6e437b102b41f79df56b\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\4073e672988d6e437b102b41f79df56b\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.2] C:\Users\Natswalker\.gradle\caches\transforms-3\4073e672988d6e437b102b41f79df56b\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\4aaa862d5868ed623ddf3ecac93decb2\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\4437b655f3cabfebacc58836fdd2e5e7\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\4437b655f3cabfebacc58836fdd2e5e7\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Natswalker\.gradle\caches\transforms-3\93f95ecbb14c0e2e1d0326b9c4e74b45\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Natswalker\.gradle\caches\transforms-3\93f95ecbb14c0e2e1d0326b9c4e74b45\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Natswalker\.gradle\caches\transforms-3\5c5e915c20f6b7e0af560bd55ff29b5c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Natswalker\.gradle\caches\transforms-3\5c5e915c20f6b7e0af560bd55ff29b5c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\4aaa862d5868ed623ddf3ecac93decb2\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\4aaa862d5868ed623ddf3ecac93decb2\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\4aaa862d5868ed623ddf3ecac93decb2\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\4aaa862d5868ed623ddf3ecac93decb2\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\4aaa862d5868ed623ddf3ecac93decb2\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\4aaa862d5868ed623ddf3ecac93decb2\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\4aaa862d5868ed623ddf3ecac93decb2\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Natswalker\.gradle\caches\transforms-3\006aa02bcac175aa3f8354bede857d6a\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Natswalker\.gradle\caches\transforms-3\006aa02bcac175aa3f8354bede857d6a\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Natswalker\.gradle\caches\transforms-3\006aa02bcac175aa3f8354bede857d6a\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#dev.kiko.qrcodegenerator.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Natswalker\.gradle\caches\transforms-3\006aa02bcac175aa3f8354bede857d6a\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Natswalker\.gradle\caches\transforms-3\006aa02bcac175aa3f8354bede857d6a\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Natswalker\.gradle\caches\transforms-3\006aa02bcac175aa3f8354bede857d6a\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Natswalker\.gradle\caches\transforms-3\006aa02bcac175aa3f8354bede857d6a\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Natswalker\.gradle\caches\transforms-3\006aa02bcac175aa3f8354bede857d6a\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#dev.kiko.qrcodegenerator.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Natswalker\.gradle\caches\transforms-3\006aa02bcac175aa3f8354bede857d6a\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Natswalker\.gradle\caches\transforms-3\006aa02bcac175aa3f8354bede857d6a\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\4437b655f3cabfebacc58836fdd2e5e7\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\4437b655f3cabfebacc58836fdd2e5e7\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\Natswalker\.gradle\caches\transforms-3\4437b655f3cabfebacc58836fdd2e5e7\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Natswalker\.gradle\caches\transforms-3\93f95ecbb14c0e2e1d0326b9c4e74b45\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Natswalker\.gradle\caches\transforms-3\93f95ecbb14c0e2e1d0326b9c4e74b45\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Natswalker\.gradle\caches\transforms-3\93f95ecbb14c0e2e1d0326b9c4e74b45\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Natswalker\.gradle\caches\transforms-3\93f95ecbb14c0e2e1d0326b9c4e74b45\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Natswalker\.gradle\caches\transforms-3\93f95ecbb14c0e2e1d0326b9c4e74b45\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Natswalker\.gradle\caches\transforms-3\93f95ecbb14c0e2e1d0326b9c4e74b45\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Natswalker\.gradle\caches\transforms-3\93f95ecbb14c0e2e1d0326b9c4e74b45\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Natswalker\.gradle\caches\transforms-3\93f95ecbb14c0e2e1d0326b9c4e74b45\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Natswalker\.gradle\caches\transforms-3\93f95ecbb14c0e2e1d0326b9c4e74b45\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Natswalker\.gradle\caches\transforms-3\93f95ecbb14c0e2e1d0326b9c4e74b45\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Natswalker\.gradle\caches\transforms-3\93f95ecbb14c0e2e1d0326b9c4e74b45\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Natswalker\.gradle\caches\transforms-3\93f95ecbb14c0e2e1d0326b9c4e74b45\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Natswalker\.gradle\caches\transforms-3\93f95ecbb14c0e2e1d0326b9c4e74b45\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Natswalker\.gradle\caches\transforms-3\93f95ecbb14c0e2e1d0326b9c4e74b45\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Natswalker\.gradle\caches\transforms-3\93f95ecbb14c0e2e1d0326b9c4e74b45\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Natswalker\.gradle\caches\transforms-3\93f95ecbb14c0e2e1d0326b9c4e74b45\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Natswalker\.gradle\caches\transforms-3\93f95ecbb14c0e2e1d0326b9c4e74b45\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Natswalker\.gradle\caches\transforms-3\93f95ecbb14c0e2e1d0326b9c4e74b45\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Natswalker\.gradle\caches\transforms-3\93f95ecbb14c0e2e1d0326b9c4e74b45\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Natswalker\.gradle\caches\transforms-3\93f95ecbb14c0e2e1d0326b9c4e74b45\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Natswalker\.gradle\caches\transforms-3\93f95ecbb14c0e2e1d0326b9c4e74b45\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:29:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:34:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:37:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:39:5-41:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:41:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:40:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:42:5-44:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:44:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Natswalker\.gradle\caches\transforms-3\d00818aae5dda9bba24e4c469907aabc\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:43:9-45

@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "dev.kiko.qrcodegenerator.app-debug-73:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "dev.kiko.qrcodegenerator.app-main-75:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "dev.kiko.qrcodegenerator.app-debug-73:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "dev.kiko.qrcodegenerator.app-main-75:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "dev.kiko.qrcodegenerator.app-debug-73:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "dev.kiko.qrcodegenerator.app-main-75:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "dev.kiko.qrcodegenerator.app-debug-73:/drawable_ic_launcher_background.xml.flat",
+        "source": "dev.kiko.qrcodegenerator.app-main-75:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "dev.kiko.qrcodegenerator.app-debug-73:/font_monserrat_bold.ttf.flat",
+        "source": "dev.kiko.qrcodegenerator.app-main-75:/font/monserrat_bold.ttf"
+    },
+    {
+        "merged": "dev.kiko.qrcodegenerator.app-debug-73:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "dev.kiko.qrcodegenerator.app-main-75:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "dev.kiko.qrcodegenerator.app-debug-73:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "dev.kiko.qrcodegenerator.app-main-75:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "dev.kiko.qrcodegenerator.app-debug-73:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "dev.kiko.qrcodegenerator.app-main-75:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "dev.kiko.qrcodegenerator.app-debug-73:/drawable_power.xml.flat",
+        "source": "dev.kiko.qrcodegenerator.app-main-75:/drawable/power.xml"
+    },
+    {
+        "merged": "dev.kiko.qrcodegenerator.app-debug-73:/drawable_arrow_forward.xml.flat",
+        "source": "dev.kiko.qrcodegenerator.app-main-75:/drawable/arrow_forward.xml"
+    },
+    {
+        "merged": "dev.kiko.qrcodegenerator.app-debug-73:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "dev.kiko.qrcodegenerator.app-main-75:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "dev.kiko.qrcodegenerator.app-debug-73:/xml_backup_rules.xml.flat",
+        "source": "dev.kiko.qrcodegenerator.app-main-75:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "dev.kiko.qrcodegenerator.app-debug-73:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "dev.kiko.qrcodegenerator.app-main-75:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "dev.kiko.qrcodegenerator.app-debug-73:/xml_data_extraction_rules.xml.flat",
+        "source": "dev.kiko.qrcodegenerator.app-main-75:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "dev.kiko.qrcodegenerator.app-debug-73:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "dev.kiko.qrcodegenerator.app-main-75:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "dev.kiko.qrcodegenerator.app-debug-73:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "dev.kiko.qrcodegenerator.app-main-75:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "dev.kiko.qrcodegenerator.app-debug-73:/font_monserrat_semibold.ttf.flat",
+        "source": "dev.kiko.qrcodegenerator.app-main-75:/font/monserrat_semibold.ttf"
+    },
+    {
+        "merged": "dev.kiko.qrcodegenerator.app-debug-73:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "dev.kiko.qrcodegenerator.app-main-75:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "dev.kiko.qrcodegenerator.app-debug-73:/font_monserrat_regular.ttf.flat",
+        "source": "dev.kiko.qrcodegenerator.app-main-75:/font/monserrat_regular.ttf"
+    },
+    {
+        "merged": "dev.kiko.qrcodegenerator.app-debug-73:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "dev.kiko.qrcodegenerator.app-main-75:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "dev.kiko.qrcodegenerator.app-debug-73:/font_monserrat_thin.ttf.flat",
+        "source": "dev.kiko.qrcodegenerator.app-main-75:/font/monserrat_thin.ttf"
+    },
+    {
+        "merged": "dev.kiko.qrcodegenerator.app-debug-73:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "dev.kiko.qrcodegenerator.app-main-75:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "dev.kiko.qrcodegenerator.app-debug-73:/font_monserrat_medium.ttf.flat",
+        "source": "dev.kiko.qrcodegenerator.app-main-75:/font/monserrat_medium.ttf"
+    },
+    {
+        "merged": "dev.kiko.qrcodegenerator.app-debug-73:/font_quantify.ttf.flat",
+        "source": "dev.kiko.qrcodegenerator.app-main-75:/font/quantify.ttf"
+    }
+]
